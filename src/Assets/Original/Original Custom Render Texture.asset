@@ -37,7 +37,7 @@ CustomRenderTexture:
   m_Dimension: 2
   m_VolumeDepth: 1
   m_ShadowSamplingMode: 2
-  m_Material: {fileID: 2100000, guid: 2c0c83bb495cf914e90b365d1c7ce876, type: 2}
+  m_Material: {fileID: 2100000, guid: 89d5828db6d6b9a4b9f699c6b8bb445f, type: 2}
   m_InitSource: 0
   m_InitMaterial: {fileID: 0}
   m_InitColor: {r: 1, g: 1, b: 1, a: 1}
@@ -50,5 +50,5 @@ CustomRenderTexture:
   m_UpdatePeriod: 0
   m_ShaderPass: 0
   m_CubemapFaceMask: 4294967295
-  m_DoubleBuffered: 1
+  m_DoubleBuffered: 0
   m_WrapUpdateZones: 0
